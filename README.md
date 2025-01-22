@@ -1,4 +1,4 @@
-# PageTable walk linux kernel module
+# Page table kernel module
 
 Загружаемый модуль ядра Linux, выводящий пользователю всё виртуальное пространоство процесса по заданному PID.
 
