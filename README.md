@@ -39,6 +39,6 @@ Enter PID: <your PID>
 
 Примеры вывода:
 
-
+![image_2025-01-22_20-13-05](https://github.com/user-attachments/assets/4b32f07b-5dac-495b-91f6-bfd6dd2945e9)
 
 > Ядро `5.15.0-43-generic`
